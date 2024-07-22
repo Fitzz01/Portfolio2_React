@@ -1,6 +1,5 @@
 import React from "react";
 import "./About.css";
-import Resume from "src/Folder/Resume_Amirul Fitri.pdf";
 // import Image from "../../assest/avatar-2.svg";
 // import AboutBox from "./AboutBox";
 
@@ -24,7 +23,7 @@ const About = () => {
               technical expertise in web development and UI/UX design to support
               creative projects and always grow in a team atmosphere.
             </p>
-            <a href={Resume} className="btn" download>
+            <a href="src/Folder/Resume_Amirul Fitri.pdf" className="btn" download>
               <i class="fa-solid fa-download"></i>&nbsp;&nbsp;&nbsp;Resume
             </a>
           </div>
