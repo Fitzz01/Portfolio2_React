@@ -23,7 +23,7 @@ const About = () => {
               technical expertise in web development and UI/UX design to support
               creative projects and always grow in a team atmosphere.
             </p>
-            <a href="./Folder/Resume_Amirul Fitri.pdf" className="btn" download>
+            <a href="https://drive.google.com/file/d/1m5zXKEbVMRrKiAbHJvjHfXuYedFXCVxH/view?usp=sharing" className="btn" download>
               <i class="fa-solid fa-download"></i>&nbsp;&nbsp;&nbsp;Resume
             </a>
           </div>
