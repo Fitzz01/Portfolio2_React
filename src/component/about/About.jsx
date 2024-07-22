@@ -1,6 +1,6 @@
 import React from "react";
 import "./About.css";
-import Resume from "./Folder/Resume_Amirul Fitri.pdf";
+import Resume from "/src/Folder/Resume_Amirul Fitri.pdf";
 // import Image from "../../assest/avatar-2.svg";
 // import AboutBox from "./AboutBox";
 
