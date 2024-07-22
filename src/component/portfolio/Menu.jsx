@@ -32,7 +32,7 @@ const Menu = [
     image: Work5,
     title: "Mockup Design",
     category: "Design",
-    link: "/folder/Portfolio Design.pdf",
+    link: "../src/Portfolio Design.pdf",
   },
 ];
 
